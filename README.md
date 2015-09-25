@@ -1,7 +1,3 @@
-# Ruby on Rails Wiki
+# RubyonRails.link Slack Community
 
-## Rules to modify
-
-     - Clone repo
-     - Create pull request
-     - Some one else has to review and merge to master
+## [Wiki](https://github.com/railslink/resources/wiki)
